@@ -58,7 +58,7 @@
                 <language ident="grc">Greek</language>
             </langUsage>
         </profileDesc>
-        <revisionDesc><change>Testing epidoc</change></revisionDesc>
+        <revisionDesc><change>Retesting epidoc</change></revisionDesc>
   </teiHeader>
 
     <text>
