@@ -82,7 +82,7 @@
 </langUsage>
 </profileDesc>
 <revisionDesc>
-<change/>
+<change who="Pria J" when="2017-06-29">Added figure tags</change>
 </revisionDesc>
 </teiHeader>
 <text>
@@ -232,6 +232,9 @@ H παραγένηται, τοῦ Β ἄστρου ἐστὶν ἡ ἑσπερ�
 διαπορευομένου τοῦ ἡλίου φανήσεται τὸ ∠
 ἄστρον ἀνατέλλον.</p>
 <p>Ἀνατελλέτω γὰρ ὁ ἥλιος κατὰ
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n123/mode/1up"></graphic>
+ </figure>
 <note type="marginal">(ι)</note> τὸ Η. καὶ ἐπεὶ τὸ Η πρότερον
 ἀνατέλλει ἤπερ τὸ Α, τὸ δὲ Α <lb n="10"/>
 τῷ ∠ συνανατέλλει, πρότερον ἄρα
@@ -447,6 +450,9 @@ eodem loco servavimnus, quo codices exhibent; sed tamen, ubi</note>
 <p>Ἐπεὶ γὰρ τὸ ∠ τοῦ Α πρότερον δύνει, τοῦ ἄρα Α <lb n="10"/>
 δύνοντος τὸ ∠ ὑπὸ γῆν ἐστιν. ἀλλὰ τοῦ Α δύνοντος
 τὸ Γ ἀνατέλλει καὶ ὁ τῶν
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n135/mode/1up"></graphic>
+</figure>
 ζῳδίων κύκλος θέσιν ἕξει
 ὡς τὴν ΗΑΚΜ, ἡ δὲ ΑΕ
 περιφέρεια θέσιν ὡς τὴνι <lb n="15"/>
@@ -487,6 +493,9 @@ eodem loco servavimnus, quo codices exhibent; sed tamen, ubi</note>
 μεσημβρίαν διʼ ἐλάττονος.</p> <lb n="15"/>
 <p>Ἔστω ἐν κόσμῳ ὁρίζων κύκλος ὁ ΑΒΓ∠, ὁ δὲ
 τοῦ ἡλίου κύκλος θέσιν ἐχέτω
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n137/mode/1up"></graphic>
+</figure>
 ὡς τὴν ΑΕΓΖ, καὶ ἔστω ὑπὸ
 γῆν τὸ ΑΕΓ ἡμικύκλιον, καὶ
 τοῦ ἡλίου δύνοντος κατὰ τὶ Γ <lb n="20"/>
@@ -512,12 +521,15 @@ eodem loco servavimnus, quo codices exhibent; sed tamen, ubi</note>
 οὑν τῶν Β Α ∠ ἑσπέριαι φαινόμεναι ἔπιτολαὶ τοῦ
 ἡλίου ὄντος πρὸς τῷ Ε. πάλιν ἔπεὶ τὰ ἔπὶ τοῦ τῶν
 ζῳδίων κύκλου ἄστρα κατὰ διάμετρον ὄντα κατὰ συζυγίαν
-ἀνατέλλει τε καὶ δύνει,
+ἀνατέλλει τε καὶ δύνει, <lb n="10"/>
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n139/mode/1up"></graphic>
+ </figure>
 τοῦ Γ ἄρα ἀνατέλλοντος τὸ κατὰ
 διάμετρον αὐτῷ τὸ Α δύνει,ῶστε
 τοῦ Γ ἀνατέλλοντος ὁ λιος ὥν
 πρὸς τῷ Α δύσεται. καὶ συνδύσεται
-τῷ ἡλίῳ τὸ Α ἄστρον,
+τῷ ἡλίῳ τὸ Α ἄστρον, <lb n="15"/>
 καὶ ἔσταιτοῦ Α ἄστρου ἡ ἑσπερία
 ἀληθινὴ δύσις. προτέρα δέ ἔστιν
 ἡ φαινομένη τῆς ἀληθινῆς. ἔστω οὖν τοῦ Α ἡ φαινομένη
@@ -538,6 +550,9 @@ eodem loco servavimnus, quo codices exhibent; sed tamen, ubi</note>
 <pb n="74"/>
 <p>Ἔστω ἐν κόσμῳ ὁρίζων ὁ ΑΒΓ∠, ὁ δὲ τοῦ ἡλίου
 κύκλος θέσιν ἐχέτω ὡς τὴν
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n141/mode/1up"></graphic>
+</figure>
 ΑΕΓΖ, καὶ τοῦ ἡλίου ἀνατέλλοντος
 κατὰ τὸ Α ἄστρον τι τῶν
 ἀπλανῶν συνανατελλέτω τὸ ∠· <lb n="5"/>
@@ -608,6 +623,9 @@ p. 70 edidimus).</note>
 κύκλος θέσιν ἐχέτω ὡς τὴν ΑΕΓ, καὶ ὁ ἥλιος πορευέσθω
 ὡς ἐπὶ τὰ Γ Ε Α μέρη, ἄστρον δέ τι τῶν
 ἀπλανῶν ἔπὶ τοῦ τῶν ζῳδίων
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n145/mode/1up"></graphic>
+</figure>
 κύκλου ἔστω τὸ Ε, καὶ τὸ Ε <lb n="5"/>
 <note type="marginal">(λϛ)</note> ἄστρον ἐσχάτως μὲν περικαταλαμβανέσθω
 ὑπὸ τῶν τοῦ ἡλίου
@@ -970,6 +988,9 @@ maώor est.᾿</note>
 μεσημβρίαν ἀνατελλέτω τὸ ∠· τῷ ἄρα ∠ ἄστρῳ ἡ
 ἀπὸ ἑῴας ἀληθινῆς ἐπιτολῆς ἑῴα ἀληθινὴ δύσις γίγνεται
 διʼ ἐλάσσονος χρόνου
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n165/mode/1up"></graphic>
+</figure>
 ἡμίσους ἐνιαυτοῦ· λέγω δὴ ὅτι, <lb n="10"/>
 ἐλάσσων ἐστὶν ὁ χρόνος ἡμίσους
 ἐνιαυτοῦ, τοῦτον τὸν χρόνον
@@ -1209,6 +1230,9 @@ maώor est.᾿</note>
 <p>Ἔστω τῶν ζῳδίων κύκλος ὁ ΑΒ, ὁρίζων δὲ ὁ Γ∠,
 καὶ ἀφῃρήσθω ζῳδίου περιφέρεια ἡ ΓΕ, καὶ περὶ <lb n="5"/>
 μέσην αὐτὴν ἔστω ὁ ἥλιος ἐπὶ
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n179/mode/1up"></graphic>
+</figure>
 τοῦ Ζ. ἐπεὶ οὖν ὑπόκειται τὰ
 ἄστρα ἐκφεύγειν τὰς το ἡλίου
 αὐγὰς τοῦ ἡλίου ὄντος ἐπὶ τοῦ,.
@@ -1350,6 +1374,9 @@ repetit, in marg. p. 42 adnotat ῾ Diametros tantum accipitʼ.</note>
 ἐπὶ τῆς ἀνατολῆς τὸ ∠, καὶ ἀπειλήφθω ἡμίσους ζῳδίου
 περιφέρεια ἡ ∠Ε, καὶ πάλιν ἡ ΖΓ καὶ ἡ ΓΗ
 καὶ ἡ Θ∠· φανερὸν <lb n="5"/>
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n187/mode/1up"></graphic>
+ </figure>
 δὴ ὅτι τοῦ ἡλίου ἐπὶ
 τοῦ Ε σημείου ὄντος
 τὸ ∠ ἄστρον ἑῴαν
@@ -1422,6 +1449,9 @@ zodiacus eandem positionem habet quam in superioribus figuris</note>
 καὶ ἀπειλήφθω ἡμίσους ζῳδίου περιφέρεια ἡ ∠Κ, καὶ
 ἔτι ἡ ΕΛ. καὶ ἐπεὶ
 τοῦ ἡλίου ἐπὶ τοῦ
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n191/mode/1up"></graphic>
+</figure>
 Κ ὄντος τὸ ∠ ἑῷον
 <note type="marginal">(λβ)</note> ἀνατέλλει, τῷ δὲ <lb n="10"/>
 ∠ ἅμα ἀνατέλλει
@@ -1563,14 +1593,17 @@ septentrio sit α, et meridies β. AURIA in marg. p. 53.</note>
 ἄρκτους, ἐκεῖνα ἐλάσσονα χρόνον κρύψιν ἄξει τῶν ἐπὶ <lb n="5"/>
 τὰ νότια τοῦ ζῳδιακοῦ.</p>
 <p>Ἔστω ὁρίζων ὁ ΑΓΒ∠,
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n199/mode/1up"></graphic>
+ </figure>
 μεσημβρινὸς δὲ ὁ ΑΒ, ὁ δὲ
 τῶν ζῳδίων ὁ Γ∠, καὶ γεγράφθω
-παράλληλος κύκλος ὁ
+παράλληλος κύκλος ὁ <lb n="10"/>
 ΗΘ, καὶ ἔστω ἐπʼ αὐτοῦ δύο
 ἄστρα τὰ Η Κ, βορειότερον
 μὲν τοῦ ζῳδιακοῦ τὸ Η, νοτιώτερον
 δὲ τὸ Κ· λέγω ὅτι τὸ Η
-τοῦ Κ ἐλάσσονα χρόνον κρύψιν
+τοῦ Κ ἐλάσσονα χρόνον κρύψιν <lb n="15"/>
 ἄγει.</p>
 <p>Ἐπεὶ γὰρ δύο ἄστρα ἐστὶν τὰ Η Κ, βορειότερον
 μὲν τὸ Η, <add cause="fix">νοτιώτερον δὲ τὸ Κ</add>, ἐπὶ δὲ τοῦ ζῳδιακοῦ
@@ -1606,6 +1639,9 @@ eandem positionem habet quamu in figuris theorematis 5.</note>
 μερῶν καὶ τοῦτον τὸν χρόνον κρύψιν ἄξει.</p>
 <p>Ἔστω ὁρίζων ὁ ΑΓ Β, ὁ δὲ τῶν ζῳδίων ὁ Γ∠, καὶ
 ἄστρον τι ἔστω ἐπὶ τοῦ <lb n="15"/>
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n201/mode/1up"></graphic>
+ </figure>
 ὁρίζοντος ἐπὶ τῆς ἀνατολῆς
 πρὸς ἄρκτους τὸ
 Ε τὸ δὴ Ε ἅμα μὲν
@@ -1630,6 +1666,9 @@ eandem positionem habet quamu in figuris theorematis 5.</note>
 ἔστω τῷ κατὰ διάμετρον τὸ Λ, καὶ ἀπειλήφθω
 ἡμίσους ζῳδίου περιφέρεια ἡ ΛΜ, καὶ ἔτι ἡ Ν∠Η.
 ἐπεὶ τοῦ ἡλίου ἐπὶ τοῦ ἑῴα
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n203/mode/1up"></graphic>
+</figure>
 Θ ὄντος τὸ ∠ ἑῷον δύσις <lb n="5"/>
 ἀνατέλλει, καὶ τὸ Ε,
 πάλιν ἐπεὶ τοῦ ἡλίου
@@ -1706,6 +1745,9 @@ littera ε deest. Notas ἑῴα <del>ἑώα AC</del> δύσις etc. om. E.</n
 ἡλίου ἐπὶ τοῦ Θ ὄντος τὸ Γ ἑσπέριον δύνει, τοῦ δὲ Γ
 δύνοντος τὸ ∠ ἀνατέλλει, καὶ τὸ Ε, τοῦ ἄρα ἡλίου
 ἐπὶ τοῦ Θ ὄντος, καὶ
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n207/mode/1up"></graphic>
+</figure>
 δύνοντος τοῦ Γ, τὸ
 Ε ἑσπέριον ἀνατέλλει. <lb n="10"/>
 πάλιν ἐπεὶ τοῦ ἡλίου
@@ -1742,16 +1784,19 @@ littera ε deest. Notas ἑῴα <del>ἑώα AC</del> δύσις etc. om. E.</n
 καὶ τὸ Ε τῷ ∠ συνανατελλέτω· τῶν ἄρα ἡγουμένων
 τινὶ τῷ ∠ συνδύνει. συνδυνέτω τῷ Ζ· ἡ ἄρα ∠Ζ
 ζῳδίου ἐστίν. καὶ τῷ Ζ κατὰ διάμετρον ἔστω τὸ Θ· καὶ
-ἡ ΓΘ ἄρα ζῳδίου ἐστίν. ἑσπερια <lb n="10"/>
-καὶ τετμήσθω ἡ ΓΘ δίχα δύσις
+ἡ ΓΘ ἄρα ζῳδίου ἐστίν. <lb n="10"/>
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n209/mode/1up"></graphic>
+ </figure>
+καὶ τετμήσθω ἡ ΓΘ δίχα
 κατὰ τὸ Κ σημεῖον, καὶ
 ἀπειλήφθω ἡμίσους ζῳδίου
 περιφέρεια ἡ ΖΗ, καὶ
 ἔτι ἡ Λ∠. ἐπεὶ τοῦ ἡλίοα <lb n="15"/>
 <note type="marginal">(νδ)</note> ἐπὶ τοῦ Λ ὄντος τὸ ∠
-ἄστρον ἑῷον ἀνατέλλει, ἑσπερία ἑῴα
-καὶ τὸ Ε, πάλιν ἐπεὶ τοῦ ἀνατολή ἀνατολή
-ἡλίου ἐπὶ τοῦ Κ ὄντοῃ ἑῴα δύσις
+ἄστρον ἑῷον ἀνατέλλει, 
+καὶ τὸ Ε, πάλιν ἐπεὶ τοῦ 
+ἡλίου ἐπὶ τοῦ Κ ὄντοῃ 
 τὸ Γ ἄστρον ἑσπέριον δύνει (ἡμίσους γάρ ἐστιν ἡ ΓΚ), <lb n="20"/>
 τοῦ δὲ Γ δύνοντος τὸ ∠ ἀνατέλλει, καὶ το Ε, τοῦ ἄρα
 ἡλίου ἐπὶ τοῦ Κ ὄντος τὸ Ε ἑσπέριον ἀνατέλλει. πάλιν
@@ -1809,6 +1854,9 @@ in simili theoremate infra (propos. 17 extr.) exstat.</note>
 ἐπὶ τοῦ Κ ὄντος τὸ Ζ ἑῷον ἀνατέλλει, καὶ τὸ Ε,
 πάλιν ἐπεὶ τοῦ ἡλίου ἐπὶ τοῦ Λ ὄντος τὸ Η ἑσπέριον <lb n="5"/>
 δύνει, καὶ τὸ Ζ ἑσπέριον ἀνατέλλει,
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n213/mode/1up"></graphic>
+</figure>
 καὶ τὸ Ε, πάλιν ἐπεὶ
 τοῦ ἡλίου ἐπὶ τοῦ Μ ὄντος
 τὸ ∠ ἑῷον ἀνατέλλει, τοῦ
@@ -1846,6 +1894,9 @@ in simili theoremate infra (propos. 17 extr.) exstat.</note>
 ἑῷον ἀνατέλλει καὶ ἑσπέριον δύνει.</p>
 <p>Ἔστω γὰρ τῷ Ζ κατὰ διάμετρον
 τὸ Η, καὶ τετμήσθω
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n215/mode/1up"></graphic>
+</figure>
 ἡ ΓΖ δίχα κατὰ τὸ Θ σημεῖον,
 καὶ ἀπειλήφθω ἡμίσους <lb n="10"/>
 ζῳδίου περιφέρεια ἡ ΗΚ, καὶ
@@ -1989,6 +2040,9 @@ rorem F, id est ζ, expressum est).</note>
 ΓΖ ζῳδίου περιφέρεια. καὶ ἔστω τῷ Ζ κατὰ διάμετρον <lb n="5"/>
 τὸ Θ, καὶ τετμήσθω ἡ Θ∠ δίχα κατὰ τὸ Η, καὶ
 ἀπειλήφθω ἡμίσους ζῳδίου
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n223/mode/1up"></graphic>
+</figure>
 περιφέρεια ἡ ΖΛ, καὶ ἔτι ἡ
 <note type="marginal">(ξη)</note> ΓΚ. ἐπεὶ τοῦ ἡλίου ἐπὶ τοῦ
 Η ὄντος τὸ ∠ ἑῷον ἀνατέλλει,  <lb n="10"/>
@@ -2021,6 +2075,9 @@ rorem F, id est ζ, expressum est).</note>
 μέχρι τῆς ἑσπερίας ἐπιτολῆς, κρύψιν τε ἄξει πλείονα
 χρόνον τῶν ἐπὶ τοῦ ζῳδιακοῦ τεταγμένων ἄστρων.</p> <lb n="5"/>
 <p>Ἔστω ὁρίζων ὁ ΑΒ, ὁ δὲ
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n225/mode/1up"></graphic>
+ </figure>
 τῶν ζῳδίων ὁ Γ∠, καὶ ἄστρον
 τι ἐπὶ τῆς δύσεως πρὸς μεσημβρίαν
 ἔστω τὸ Ε, καὶ συνδυνέτω
