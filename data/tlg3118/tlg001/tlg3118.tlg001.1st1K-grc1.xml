@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader>
+ <teiHeader xml:lang="eng">
     
   <fileDesc>
    <titleStmt>
-    <title>Ιστορικον Συντιπα του Φιλοσοφου Ωραιοτατον Πανυ</title>
+    <title xml:lang="grc">Ιστορικον Συντιπα του Φιλοσοφου Ωραιοτατον Πανυ</title>
     <editor>ALFREDI EBERHARD</editor>
     <funder>Harvard Library Arcadia Fund</funder>
     <principal>Gregory Crane</principal>
@@ -49,7 +49,7 @@
     <listBibl xml:lang="lat">
      <biblStruct>
       <monogr>
-       <title>FABULAE ROMANENSES GRAECE CONSCRIPTAE</title>
+       <title xml:lang="lat">FABULAE ROMANENSES GRAECE CONSCRIPTAE</title>
        <editor>
         <persName>
          <name xml:lang="lat">ALFREDI EBERHARD</name>
