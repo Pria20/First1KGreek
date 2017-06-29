@@ -51,7 +51,7 @@
       </titleStmt>
       <publicationStmt>
 <authority>University of Leipzig</authority>
- <idno type="filename">https://archive.org/stream/dasbuchhenochhrs00flemuoft</idno>
+ <idno type="filename">tlg1463.tlg001.opp-grc1.xml</idno>
 <availability>
  <p>Available under a Creative Commons Attribution-ShareAlike 4.0 International
   License</p>
@@ -83,6 +83,7 @@
    </imprint>
   
   </monogr>
+   <ref target="https://archive.org/stream/dasbuchhenochhrs00flemuoft"></ref>
  </biblStruct>
 </listBibl>
 </sourceDesc>
