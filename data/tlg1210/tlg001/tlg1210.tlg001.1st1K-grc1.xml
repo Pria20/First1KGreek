@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
+<teiHeader xml:lang="eng">
     
 <fileDesc>
 <titleStmt>
- <title>De Sphaera Quae Movetur</title>
-<author>Autolycus</author>
+ <title xml:lang="lat">De Sphaera Quae Movetur</title>
+ <author xml:lang="lat">Autolycus</author>
 <editor>Friedrich Hultsch</editor>
  <funder>Harvard Library Arcadia Fund</funder>
  <principal>Gregory Crane</principal>
@@ -49,7 +49,7 @@
 <listBibl>
  <biblStruct>
  <monogr>
-  <title>Autolyci De Sphaera Quae Movetur</title>
+  <title xml:lang="lat">Autolyci De Sphaera Quae Movetur</title>
   <editor>
 	<persName>
 	 <name xml:lang="lat">Fridericus Hultsch</name>
@@ -57,7 +57,7 @@
   </editor>
   <author ref="urn:cts:greekLit:tlg1210">Autolycus</author>
   <imprint>
-	<publisher>In Aedibus B. G. Teubneri</publisher>
+   <publisher xml:lang="lat">In Aedibus B. G. Teubneri</publisher>
 	<pubPlace>Lipsiae</pubPlace>
 	<date>1885</date>
   </imprint>
@@ -82,7 +82,7 @@
 </langUsage>
 </profileDesc>
 <revisionDesc>
-<change/>
+<change who="Pria J" when="2017-06-29">Tagged figures</change>
 </revisionDesc>
 </teiHeader>
 <text>
@@ -123,6 +123,9 @@ communem et polos communes. et per 2m secundi sunt invi-</note>
 <pb n="4"/>
 δὲ αὐτῆς τὰ Α Β σημεῖα, καὶ στρεφέσθω ὁμαλῶς περὶ
 τὸν ἑαυτῆς ἄξονα τὸν ΑΒ λέγω ὅτι
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n71/mode/1up"></graphic>
+</figure>
 πάντα τὰ ἐπὶ τῆς ἐπιφανείας τῆς
 σφαίρας σημεῖα, ὅσα μὴ ἔστιν ἐπὶ τοῦ
 ἄξονος, κύκλους γράψει παραλλήλους <lb n="5"/>
@@ -165,6 +168,9 @@ communem et polos communes. et per 2m secundi sunt invi-</note>
 τῶν παραλλήλων κύκλων καθʼ ὧν φέρεται.</p> <lb n="10"/>
 <p>Σφαῖρα γὰρ στρεφέσθω ὁμαλῶς περὶ τὸν ἑαυτῆς
 ἄξονα τὸν ΑΒ, πόλοι δὲ τῆς
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n73/mode/1up"></graphic>
+</figure>
 σφαίρας ἔστωσαν τὰ Α Β σημεῖα,
 καὶ εἰλήφθω τινὰ σημεῖα
 ἐπὶ τῆς ἐπιφανείας τῆς <lb n="15"/>
@@ -205,6 +211,9 @@ communem et polos communes. et per 2m secundi sunt invi-</note>
 ὅπερ ἄτοπον· οὐκ ἄρα ἐν ἴσῳ χρόνῳ τὸ Γ σημεῖον
 ἐπὶ τὸ Ε παραγίγνεται καὶ τὸ
 ∠ ἐπὶ τὸ Η. ὁμοίως δὴ δείξομεν
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n75/mode/1up"></graphic>
+</figure>
 ὅτι οὐδὲ ἐπʼ ἄλλο τι <lb n="20"/>
 πλὴν ἐπὶ τὸ Ζ σημεῖον.</p>
 <p>Μὴ ἐρχέσθω δὴ τὸ ἡμικύκλιον
@@ -270,9 +279,12 @@ codicibus ABC est circulus αγθβζε, ultra quem protendi-</note>
 <p>Ἐν γὰρ σφαίρᾳ μένων <add cause="fix">μέγιστος</add> κύκλος ὁ ΑΒ <lb n="15"/>
 πρὸς ὀρθὰς ὢν τῷ ἄξονι ὁριζέτω
 τό τε φανερὸν τῆς σφαίρας καὶ τὸ
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n79/mode/1up"></graphic>
+</figure>
 ἀφανές· λέγω ὅτι στρεφομένης τῆς
-σφαίρας περὶ τὸν ἑαυτῆς ἄξονα οὐ.
-δὲν τῶν ἐπὶ τῆς ἐπιφανείας τῆς <lb n="20"/>
+σφαίρας περὶ τὸν ἑαυτῆς ἄξονα οὐδὲν
+ τῶν ἐπὶ τῆς ἐπιφανείας τῆς <lb n="20"/>
 σφαίρας σημείων οὔτε δύσεται οὕτε
 ἀνατελεῖ.</p>
 <note type="marginal">(ιγ)</note> <p>Ὅ ἐστιν ἐπὶ τῆς μυλοειδοῦς κινήσεως· τότε γὰρ καὶ ὁ
@@ -296,6 +308,9 @@ duo affert Auria p. 27 sq.: ‘Schol. 1. Quod proponit Au-</note>
 σημεῖον δύσεται ἢ ἀνατελεῖ, συμβαλεῖ ὁ Γ∠ κύκλος
 <note type="marginal">(ιϚ)</note> τῷ ΑΒ ὁρίζοντι, ὅπερ ἐστὶν ἄτοπον· ἔστιν γὰρ αὐτῷ
 παράλληλος· οὐκ ἄρα τὸ Γ σημεῖον
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n81/mode/1up"></graphic>
+</figure>
 δύσεται ἢ ἀνατελεῖ. ὁμοίως δὴ δείξομεν
 ὅτι καὶ πάντα τὰ ἐπὶ τῆς <lb n="10"/>
 ἐπιφανείας τῆς σφαίρας σημεῖα οὕτη
@@ -333,6 +348,9 @@ duo affert Auria p. 27 sq.: ‘Schol. 1. Quod proponit Au-</note>
 ἄρα ἐστὶν ἑκάτερον τῶν ΒΕΓ Β∠Γ· τὸ ∠
 ἄρα σημεῖον αἰεὶ κατὰ τὰ αὐτὰ σημεῖα τοῦ ΑΒΓ κύκλου
 καὶ δύσεται καὶ ἀνατελεῖ <lb n="10"/>
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n83/mode/1up"></graphic>
+ </figure>
 καὶ τὸν ἴσον χρόνον. ὑπὲρ τὸν
 ὁρίζοντα ἐνεχθήσεται καὶ ὑπὸ τὸν
 ὁρίζοντα. ὁμοίως δὴ δείξομεν ὅτι
@@ -406,8 +424,11 @@ centrum ε descriptus est minor circulus γθκ.</note>
 σφαίρᾳ τὸν ΑΒΓ διὰ τῶν πόλων τέμνει, δίχα τε
 αὐτὸν τεμεῖ καὶ πρὸς ὀρθάς· διάμετρος ἄρα ἐστὶν ἡ
 ΑΓ τοῦ ΑΒΓ κύκλου. καὶ ὁ Α∠Γ κύκλος ὀρθός <lb n="10"/>
-ἐστι πρὸς τὸν ΑΒ
+ἐστι πρὸς τὸν ΑΒΓ
 κύκλον· κύκλου δή τινος
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n87/mode/1up"></graphic>
+</figure>
 τοῦ ΑΒΓ ἐπὶ διαμέτρου
 τῆς ΑΓ τμῆμα
 κύκλου ὀρθὸν ἐφέστηκεν <lb n="15"/>
@@ -443,6 +464,9 @@ centrum ε descriptus est minor circulus γθκ.</note>
 ὁρίζοντος τάς τε ἀνατολὰς καὶ τὰς δύσεις ποιοῦνται, ἔτι
 δὲ καὶ ὁμοίως ἔσονται κεκλιμένοι πρὸς τὸν ὁρίζοντα.</p> <lb n="10"/>
 <p>Ἔστω ἐν σφαίρᾳ κύκλος
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n89/mode/1up"></graphic>
+ </figure>
 ὁρίζων τό τε φανερὸν τῆς
 σφαίρας καὶ τὸ ἀφανὲς ὁ
 ΑΒ∠Γ λοξὸς ὥν πρὸς τὸν
@@ -560,6 +584,9 @@ eius quam codices exhibent (conf. adnot. ad figu-</note>
 ἐφαρμόσουσιν ἐπὶ τὸν ὁρίζοντα.</p>
 <note type="footnote">(λζ) Ὅτι δὲ ὀξεῖά ἐστιν ἡ ὑπὸ ΚΜΝ γωνία, δῆλον οὕτως·
 ἐὰν γράψωμεν τὸν μέγιστον τῶν παραλλήλων τὸν ΞΡΟ, ὡς
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n95/mode/1up"></graphic>
+</figure>
 ὑπόκειται, τεταρτημορίου ἔσται
 ὁ ΖΡ ἐκ πόλου γὰρ τοῦ ΞΡΟ <lb n="20"/>
 μείζων ἄρα τεταρτημορίου ἡ
@@ -629,6 +656,9 @@ secantes, exhibet.</note>
 φανερῷ πόλῳ ὕστερον δύνει, τῶν δὲ ἅμα δυνόντων <lb n="10"/>
 τὰ πρὸς τῷ φανερῷ πόλῳ πρότερον ἀνατέλλει.</p>
 <p>Ἐν γὰρ σφαίρᾳ μέγιστος
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n99/mode/1up"></graphic>
+ </figure>
 κύκλος ὁ ΑΒΓ
 λοξὸς ὤν πρὸς τὸν ἄξονα
 ὁριζέτω τό τε φανέρὸν <lb n="15"/>
@@ -653,6 +683,9 @@ circulos θζλγ ηεκ circa centrum α descriptos et circulum αηβε
 <note type="marginal">(μδ)</note> λοξός ἐστιν· ἡ ΓΖ ἄρα περιφέρεια τῆς ΕΗ περιφερείας
 μείζων ἐστὶν ἢ ὁμοία.
 ἔστω τῇ ΕΗ ὁμοία ἡ
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n101/mode/1up"></graphic>
+</figure>
 <note type="marginal">(με)</note> ΓΛ· ἐν ἴσῳ ἄρα χρόνῳ
 τὸ Γ ἐπὶ τὸ Λ παραγίγνεται
 καὶ τὸ Ε ἐπὶ
@@ -687,6 +720,9 @@ circulos θζλγ ηεκ circa centrum α descriptos et circulum αηβε
 τὸν ἄξονα ὁρίζῃ τό τε φανερὸν τῆς σφαίρας καὶ τὸ
 ἀφανές, ὁ διὰ τῶν πόλων τῆς σφαίρας κύκλος ἐν μιᾷ
 περιφορᾷ τῆς σφαίρας δὶς ἔσται ὀρθὸς πρὸς τὸν ὁρίζοντα.</p>
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n103/mode/1up"></graphic>
+ </figure>
 <p>Ἐν γὰρ σφαίρᾳ μέγιστος κύκλος ὁ ΑΒΓ ὁριζέτω <lb n="5"/>
 τό τε φανερὸν τῆς σφαίρας καὶ τὸ ἀφανὲς λοξὸς ὥν
 <note type="marginal">(μζ)</note> πρὸς τὸν ἄξονα, καὶ ἔστω μέγιστος τῶν αἰεὶ φανερῶν
@@ -752,6 +788,9 @@ ductus, Theodosii sphaer. 3, 3 citat.</note>
 περιφέρειαν τὴν μεταξὺ τῶν παραλλήλων κύκλων <lb n="15"/>
 ών ἐφάπτεται τάς τε ἀνατολὰς καὶ τὰς δύσεις ποιεῖται.</p>
 <p>Ἐν γὰρ σφαίρᾳ
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n107/mode/1up"></graphic>
+ </figure>
 μέγιστος κύκλος ὁ
 ΑΒΓ λοξὸς ὢν πρὸς,
 τὸν ἄξονα ὁριζέτω <lb n="20"/>
@@ -772,6 +811,9 @@ ductus, Theodosii sphaer. 3, 3 citat.</note>
 <p>Είλήφθω γάρ τινα σημεῖα ἐπὶ τῆς ΖΓ περιφερείας
 τυχόντα τὰ Θ Κ, καὶ ἔστωσαν παράλληλοι κύκλοι
 καθʼ ών φέρεται τὰ <lb n="5"/>
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n109/mode/1up"></graphic>
+ </figure>
 Θ Κ σημεῖα οἱ ΑΘΜ
 ΜΚΞ ἐπεὶ τὸ Ζ
 <note type="marginal">(νδ)</note> σημεῖον αἰεὶ διὰ μὲν
@@ -804,7 +846,10 @@ ductus, Theodosii sphaer. 3, 3 citat.</note>
 τεμνέτω, μηδέτερος δὲ αὐτῶν μήτε πρὸς ὀρθὰς ἔστω
 τῷ ἄξονι μήτε διὰ τῶν πόλων τῆς σφαίρας· λέγω ὅτι
 ἕκάτερος τῶν ΑΓΒ Γ∠Β κύκλων μέγιστός ἐστιν.</p> <lb n="5"/>
-<p>Ἕστω γὰρ αὐτῶν κοινὴτομὴ
+<p>Ἕστω γὰρ αὐτῶν κοινὴ τομὴ
+ <figure>
+  <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n111/mode/1up"></graphic>
+ </figure>
 ἡ Β ἡ ΒΓ ἄρα διάμετρός ἐστι
 τοῦ Γ∠Β κύκλου. τετμήσθωε
 ἡ ΒΓ δίχα κατὰ τὸ Ε σημεῖον·
@@ -834,6 +879,9 @@ ductus, Theodosii sphaer. 3, 3 citat.</note>
 τῆς σφαίρας ἡ ΘΚ εὐθεῖα (ἑκάτερον γὰρ τῶν Θ Ε
 σημείων ἐπὶ τοῦ ἄξονός ἐστιν). καὶ ἔπεὶ ἐν σφαίρᾳ
 κύκλος ἔστὶν ὁ ΓΔΒ, ἀπὸ δὲ
+<figure>
+ <graphic url="https://archive.org/stream/autolycidesphaer00autouoft#page/n113/mode/1up"></graphic>
+</figure>
 τοῦ κέντρου τῆς σφαίρας τοῦ Θ <lb n="5"/>
 ἐπὶ τὸ κέντρον τοῦ Γ∠Β κύκλου
 ἔπέζευκται εὐθεῖα ἡ ΘΕ,
